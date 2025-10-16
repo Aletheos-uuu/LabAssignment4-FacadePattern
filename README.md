@@ -21,3 +21,4 @@ FrontDesk: The facade class that coordinates interactions between the client (Ho
 
 
 HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
+<img width="4125" height="1179" alt="UML Class Diagram - Facade Pattern" src="https://github.com/user-attachments/assets/a769a739-624d-4736-8fbb-b5719556952c" />
